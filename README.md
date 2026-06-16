@@ -1,10 +1,11 @@
 # Hi, I'm Sree Anirudh Nannuri 👋
 
-**Backend Software Engineer | Full-Stack Engineer | AI Product Engineer**
+**Backend Software Engineer | Full-Stack Engineer | AI Product Engineer | Aspiring Forward Deployed Engineer**
 
-I build production-ready web applications, scalable backend APIs, AI/RAG workflows, and data-heavy systems. My work sits at the intersection of backend engineering, full-stack product development, and AI-powered automation.
+I build production-ready web applications, scalable backend APIs, AI/RAG workflows, and data-heavy systems. My work sits at the intersection of backend engineering, full-stack product development, AI-powered automation, and customer-facing problem solving.
 
-I enjoy building systems that are practical, reliable, and useful for real users.
+I’m especially interested in transitioning into Forward Deployed Engineering, where I can work closer to users, understand real operational workflows, and build software that directly solves customer problems.
+
 
 ---
 
@@ -91,18 +92,17 @@ A full-stack web application that generates and previews websites from natural l
 
 ## 🎯 Currently Interested In
 
-* Backend Software Engineer roles
-* Full-Stack Engineer roles
-* AI Product Engineer roles
-* Forward Deployed Engineer roles
+* Forward Deployed Engineer roles where I can work close to users and turn real workflow problems into software
+* Backend Software Engineer roles focused on scalable APIs, databases, and production systems
+* Full-Stack Engineer roles involving React, Next.js, Python, and cloud-backed applications
+* AI Product Engineer roles involving LLM APIs, RAG workflows, and human-in-the-loop systems
 * Startup roles where I can build fast, learn fast, and own meaningful product work
 
 ---
 
 ## 📫 Connect With Me
 
-* LinkedIn: Add your LinkedIn link here
-* GitHub: Add your GitHub link here
+* LinkedIn: [LinkedIn](https://www.linkedin.com/in/anirudhnannuri/)
 * Email: [anirudhnannuri9@gmail.com](mailto:anirudhnannuri9@gmail.com)
 * Resume: Add resume link here
 

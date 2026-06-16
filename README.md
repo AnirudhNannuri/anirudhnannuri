@@ -104,7 +104,7 @@ A full-stack web application that generates and previews websites from natural l
 
 * LinkedIn: [LinkedIn](https://www.linkedin.com/in/anirudhnannuri/)
 * Email: [anirudhnannuri9@gmail.com](mailto:anirudhnannuri9@gmail.com)
-* Resume: Add resume link here
+* Resume: [Resume](https://github.com/AnirudhNannuri/anirudhnannuri/blob/main/SreeAnirudh_Nannuri_Resume.pdf)
 
 
 <!--

@@ -26,7 +26,7 @@ A full-stack AI evaluation platform with provider-agnostic API connectors to ben
 
 **Tech:** Next.js, React, Python, FastAPI, Supabase, LLM APIs
 
-* Vyoma Labs: [Live At]([https://www.vyomalabs.dev/])
+* Vyoma Labs: [Live At](https://www.vyomalabs.dev/)
 
 ---
 

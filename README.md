@@ -22,9 +22,11 @@ I’m especially interested in transitioning into Forward Deployed Engineering, 
 
 ### Archer Labs – AI Model Evaluation Platform
 
-A full-stack AI evaluation platform with provider-agnostic API connectors to benchmark, score, and compare LLM outputs across providers.
+A full-stack AI evaluation platform with provider-agnostic API connectors to benchmark, score, and compare LLM outputs across providers. This project was renamed as **Vyoma Labs**, my startup on which I am actively working on. 
 
 **Tech:** Next.js, React, Python, FastAPI, Supabase, LLM APIs
+
+* Vyoma Labs: [Live At]([https://www.vyomalabs.dev/])
 
 ---
 
